@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+SetlistSongs {
+    padding-left: 20px;
+}
+
+Title {
+    padding-top: 30px;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+Artist {
+    display: block;
+    font-size: 20px;
+    font-style: italic;
+    padding-bottom: 5px;
+}
+
+Genre:before {
+    content: "Genre: ";
+    font-weight: bold;
+}
+
+Genre {
+    font-size: 18px;
+}
+
+YearReleased:before {
+    padding-inline-start: 5px;
+    content: " | ";
+    font-weight: bold;
+}
+
+YearReleased {
+    font-size: 18px;
+}
+
+
