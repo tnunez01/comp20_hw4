@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+<SetlistSongs>
+    <Song>
+        <Title>My Love Is Your Love</Title>
+        <Artist>Whitney Houston</Artist>
+        <YearReleased>1999</YearReleased>
+        <Genre>R&amp;B/Soul</Genre>
+    </Song>
+    <Song>
+        <Title>I Say a Little Prayer</Title>
+        <Artist>Aretha Franklin</Artist>
+        <YearReleased>1968</YearReleased>
+        <Genre>Classic Soul</Genre>
+    </Song>
+    <Song>
+        <Title>The Best</Title>
+        <Artist>Tina Turner</Artist>
+        <YearReleased>1989</YearReleased>
+        <Genre>Rock</Genre>
+    </Song>
+    <Song>
+        <Title>Right Back Where We Started From</Title>
+        <Artist>Maxine Nightingale</Artist>
+        <YearReleased>1976</YearReleased>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song>
+        <Title>Fallin'</Title>
+        <Artist>Alicia Keys</Artist>
+        <YearReleased>2001</YearReleased>
+        <Genre>R&amp;B/Soul</Genre>
+    </Song>
+    <Song>
+        <Title>Feeling Good</Title>
+        <Artist>Nina Simone</Artist>
+        <YearReleased>1965</YearReleased>
+        <Genre>R&amp;B/Soul</Genre>
+    </Song>
+    <Song>
+        <Title>Baby Love</Title>
+        <Artist>The Supremes</Artist>
+        <YearReleased>1964</YearReleased>
+        <Genre>R&amp;B</Genre>
+    </Song>
+
+    <Song>
+        <Title>Listen</Title>
+        <Artist>Beyonc&#0233;</Artist>
+        <YearReleased>2007</YearReleased>
+        <Genre>R&amp;B/Soul</Genre>
+    </Song>
+    <Song>
+        <Title>We Belong Together</Title>
+        <Artist>Mariah Carey</Artist>
+        <YearReleased>2005</YearReleased>
+        <Genre>R&amp;B/Soul</Genre>
+    </Song>
+    <Song>
+        <Title>Hard Place</Title>
+        <Artist>H.E.R.</Artist>
+        <YearReleased>2019</YearReleased>
+        <Genre>R&amp;B/Soul</Genre>
+    </Song>    
+</SetlistSongs>

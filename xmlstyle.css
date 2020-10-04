@@ -3,21 +3,22 @@
 
 SetlistSongs {
     padding-left: 20px;
+    text-align: center;
 }
 
 Title {
-    padding-top: 30px;
+    padding-top: 20px;
     display: block;
     font-size: 24px;
     font-weight: bold;
-    padding-bottom: 5px;
+    padding-bottom: 4px;
 }
 
 Artist {
     display: block;
     font-size: 20px;
     font-style: italic;
-    padding-bottom: 5px;
+    padding-bottom: 4px;
 }
 
 Genre:before {
@@ -26,17 +27,20 @@ Genre:before {
 }
 
 Genre {
+    display: block;
     font-size: 18px;
+    padding-bottom: 20px;
 }
 
 YearReleased:before {
-    padding-inline-start: 5px;
-    content: " | ";
-    font-weight: bold;
+    content: "(";
 }
 
 YearReleased {
+    display: inline-block;
     font-size: 18px;
 }
 
-
+YearReleased:after {
+    content: ")";
+}
